@@ -24,6 +24,8 @@
 - **flutter_animate** for advanced flutter animations (need to learn)
 - **skeletonizer** for showing skeleton loader (need to learn)
 - **share_plus** for (need to look up)
+- **flutter_tts** for (need to look up)
+- **speech_to_text** for (need to look up)
 
 ---
 #### In dev_dependencies:
